@@ -1,0 +1,22 @@
+
+
+
+/** Basic Styling to Display Form **/
+.col-md-5, .col-md-1 {
+  border:2px solid lightgrey;
+  padding:5px 7px;
+}
+
+.spacer {
+  margin:40px 0;
+}
+
+.align-rt{
+  text-align:right;
+  font-weight: 600;
+}
+
+.align-ct{
+  text-align:center;
+  font-weight: 600;
+}
