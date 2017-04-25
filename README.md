@@ -1,8 +1,7 @@
 # jQuery Questionnaire/Quiz
 jQuery Questionnaire:   
    
-A JavaScript/jQuery based quiz/questionnaire that asks the following question and then scores it accordingly.    
-Are you prepared to become a supplier for a public or private organization?    
+A JavaScript/jQuery based quiz/questionnaire that asks the following question and then scores it accordingly: Are you prepared to become a supplier for a public or private organization?    
 
 This can be used as a template for creating other questionnaires or quizzes.
 
