@@ -45,3 +45,9 @@ p{
 .clr2 {
   background-color: #f2fafd;
 }
+
+.score {
+  margin: 40px -11px 20px;
+  padding:5px 11px 15px;
+  border-radius:10px;
+}
