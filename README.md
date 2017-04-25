@@ -8,10 +8,17 @@ This can be used as a template for creating other questionnaires or quizzes.
 
 jQuery scores the questionnaire and then displays a color background with a message specific to your score.
 
-## jQuery passes CSS style with if statements
+## jQuery passes CSS style and message with if statements
 
-Green:   YOU ARE PREPARED             (70 to 75 points)   
-Yellow:  YOU ARE ALMOST PREPARED      (61 to 69 points)  
-Orange:  YOU ARE NOT VERY PREPARED    (31 to 60 points)  
-Red:     YOU ARE NOT PREPARED         (30 points or less)  
+(70 to 75 points)  
+Green: YOU ARE PREPARED  
+  
+(61 to 69 points)  
+Yellow: YOU ARE ALMOST PREPARED  
+
+(31 to 60 points)  
+Orange: YOU ARE NOT VERY PREPARED    
+  
+(30 points or less)  
+Red: YOU ARE NOT PREPARED           
 
