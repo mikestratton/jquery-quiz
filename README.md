@@ -2,13 +2,13 @@
 jQuery Questionnaire:   
    
 A JavaScript/jQuery based quiz/questionnaire that asks the following question and then scores it accordingly.    
-ARE YOU PREPARED TO BECOME A SUPPLIER FOR A PUBLIC OR PRIVATE ORGANIZATION?  
+Are you prepared to become a supplier for a public or private organization?    
 
 This can be used as a template for creating other questionnaires or quizzes.
 
 jQuery scores the questionnaire and then displays a color background with a message specific to your score.
 
-## jQuery passes CSS style and message with if statements
+## jQuery passes CSS style and message into HTML with if statements
 
 (70 to 75 points)  
 Green: YOU ARE PREPARED  
