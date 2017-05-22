@@ -55,5 +55,7 @@ function handleClick(){
       document.getElementById("total").innerHTML = "YOU ARE PREPARED";
       document.getElementById("results").innerHTML = "You may need to work harder in a couple of areas, but you are ready to access the procurement market and become a supplier for public and private organizations.";
     }
+    
+    
 
   }

@@ -1,17 +1,20 @@
 /** Basic Styling to Display Form **/
 .col-md-1 {
   padding:5px 7px 0 7px;
+  margin:4px 0;
 }
 
 .q-bdr{
   border:2px solid lightgrey;
+  min-height:59px;
 }
 
 .col-md-6 {
   border:none;
-  padding:5px 7px 0 7px;
+  padding:8px 7px 0 7px;
+  margin:4px 0;
+} 
 
-}
 p{
   padding:0 6px;
 }
@@ -30,20 +33,22 @@ p{
 }
 
 .col-xs-12 {
- margin:5px 0 0 0;
+ margin:4px 0;
  border:none;
 }
 
 .col-xs-2 {
- 
+  margin:4px 0;
 }
 
 .clr1 {
   background-color:#f2f2f2;
+  min-height:59px;
 }
 
 .clr2 {
   background-color: #f2fafd;
+  min-height:59px;
 }
 
 .score {
