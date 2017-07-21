@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+p {	
+	margin:0;
+	
+	padding:5px 11px;
+}
+
+.col-md-1-10 {
+	float:left;
+	width:8%;
+	margin-left:2%;
+	min-height:50px;
+}
+
+.col-md-5-10 {
+	float:left;
+	width:48%;
+	margin:0;
+	min-height:50px;
+	
+}
+
+@media (max-width: 768px) {
+    .col-xs-2-10{
+		float:left;
+		width:20%;
+		margin-left:0;
+	}
+}
+
+@media (max-width: 768px) {
+    .col-xs-10-10{
+		float:none;
+		width:100%;
+		margin-left:0;
+	}
+}
+
+.bld{
+  font-weight:800;
+}
+
+
+
+
